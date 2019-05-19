@@ -1,1 +1,3 @@
-Sample code
+Sample code.
+
+I'm Java Developer and developing and gaming project.
